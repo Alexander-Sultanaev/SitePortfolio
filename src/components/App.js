@@ -2,7 +2,7 @@ import React from 'react';
 import Header from "./Header/Header";
 import Techs from './Techs/Techs';
 import Projects from './Projects/Projects';
-import Contacts from './Contacts/Contacs';
+import Contacts from './Contacts/Contacts';
 import Footer from './Footer/Footer';
 
 function App() {
