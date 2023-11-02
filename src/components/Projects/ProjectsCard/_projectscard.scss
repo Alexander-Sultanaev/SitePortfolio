@@ -1,0 +1,31 @@
+.projects-card {
+  min-width: 370px;
+  box-shadow: 5px 5px 5px 5px #666666;
+  border-radius: 10px;
+  .projects-card__title{
+    font-size: 26px;
+    padding: 27px 0px 17px;
+    margin: 0;
+  }
+  .projects-card__description{
+    font-size: 18px;
+    color: #666666;
+    margin: 0;
+    padding: 0px 20px;
+  }
+  .projects-card__techs{
+    margin: 0;
+    padding: 17px 0px 21px;
+    color: #666666;
+  }
+  .projects-card__link{
+    color: #000;
+    margin: 0 auto;
+    padding-bottom: 25px;
+    display: inline-block;
+    font-size: 20px;
+    .projects-card__pic{
+      padding-right: 10px;
+    }
+  }
+}
